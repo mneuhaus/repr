@@ -1,0 +1,22 @@
+TAP version 13
+ok 1 - Icecave\Repr\GeneratorTest::testNull
+ok 2 - Icecave\Repr\GeneratorTest::testArrayEmpty
+ok 3 - Icecave\Repr\GeneratorTest::testArrayVector
+ok 4 - Icecave\Repr\GeneratorTest::testArrayAssociative
+ok 5 - Icecave\Repr\GeneratorTest::testArrayTrimmedVector
+ok 6 - Icecave\Repr\GeneratorTest::testArrayTrimmedAssociative
+ok 7 - Icecave\Repr\GeneratorTest::testArrayNestedArraysAtMaximumDepth
+ok 8 - Icecave\Repr\GeneratorTest::testArrayNestedArraysExceedingMaximumDepth
+ok 9 - Icecave\Repr\GeneratorTest::testObject
+ok 10 - Icecave\Repr\GeneratorTest::testObjectWithToString
+ok 11 - Icecave\Repr\GeneratorTest::testRepresentableObject
+ok 12 - Icecave\Repr\GeneratorTest::testStream
+ok 13 - Icecave\Repr\GeneratorTest::testResource
+ok 14 - Icecave\Repr\GeneratorTest::testString
+ok 15 - Icecave\Repr\GeneratorTest::testStringEscape
+ok 16 - Icecave\Repr\GeneratorTest::testStringTrimmed
+ok 17 - Icecave\Repr\GeneratorTest::testInteger
+ok 18 - Icecave\Repr\GeneratorTest::testFloat
+ok 19 - Icecave\Repr\GeneratorTest::testBoolean
+ok 20 - Icecave\Repr\ReprTest::testFacade
+1..20

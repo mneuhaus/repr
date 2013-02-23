@@ -1,0 +1,14 @@
+
+
+Code Coverage Report 
+  2013-02-23 08:50:59
+
+ Summary: 
+  Classes: 100.00% (2/2)
+  Methods: 100.00% (19/19)
+  Lines:   100.00% (120/120)
+
+\Icecave\Repr::Generator
+  Methods: 100.00% (16/16)   Lines: 100.00% (113/113)
+\Icecave\Repr::Repr
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
