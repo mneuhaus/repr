@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="20" assertions="25" failures="0" errors="0" time="0.084385">
+    <testsuite name="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" namespace="Icecave\Repr" fullPackage="Icecave.Repr" tests="19" assertions="24" failures="0" errors="0" time="0.081100">
+      <testcase name="testNull" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="15" assertions="1" time="0.007195"/>
+      <testcase name="testArrayEmpty" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="20" assertions="1" time="0.003279"/>
+      <testcase name="testArrayVector" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="25" assertions="1" time="0.003490"/>
+      <testcase name="testArrayAssociative" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="35" assertions="1" time="0.003806"/>
+      <testcase name="testArrayTrimmedVector" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="45" assertions="1" time="0.003783"/>
+      <testcase name="testArrayTrimmedAssociative" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="55" assertions="1" time="0.003314"/>
+      <testcase name="testArrayNestedArraysAtMaximumDepth" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="71" assertions="1" time="0.003890"/>
+      <testcase name="testArrayNestedArraysExceedingMaximumDepth" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="85" assertions="1" time="0.003446"/>
+      <testcase name="testObject" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="101" assertions="1" time="0.002892"/>
+      <testcase name="testObjectWithToString" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="107" assertions="1" time="0.014193"/>
+      <testcase name="testRepresentableObject" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="118" assertions="2" time="0.007623"/>
+      <testcase name="testStream" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="131" assertions="1" time="0.002908"/>
+      <testcase name="testResource" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="137" assertions="1" time="0.002864"/>
+      <testcase name="testString" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="143" assertions="1" time="0.002970"/>
+      <testcase name="testStringEscape" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="150" assertions="1" time="0.002859"/>
+      <testcase name="testStringTrimmed" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="158" assertions="1" time="0.003243"/>
+      <testcase name="testInteger" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="165" assertions="1" time="0.002787"/>
+      <testcase name="testFloat" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="170" assertions="4" time="0.003501"/>
+      <testcase name="testBoolean" class="Icecave\Repr\GeneratorTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/GeneratorTest.php" line="178" assertions="2" time="0.003057"/>
+    </testsuite>
+    <testsuite name="Icecave\Repr\ReprTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/ReprTest.php" namespace="Icecave\Repr" fullPackage="Icecave.Repr" tests="1" assertions="1" failures="0" errors="0" time="0.003285">
+      <testcase name="testFacade" class="Icecave\Repr\ReprTest" file="/home/travis/build/IcecaveStudios/repr/test/suite/Icecave/Repr/ReprTest.php" line="8" assertions="1" time="0.003285"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
